@@ -12,7 +12,9 @@ zamenjeno
 sa
 </p>
 <code>String mdf = md.contains(":") ? StringUtils.substringAfter(md, ":") : md;</code>
+<hr>
 
+<a href="https://github.com/kovmisa/dspace-kg/blob/master/input-forms.xml">/dspace/config/input-forms.xml</a>
 
 
 
