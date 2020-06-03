@@ -22,5 +22,5 @@ Line 119-152 dodata polja za submitovanje issn, doi, scopus:
 <a href="https://github.com/kovmisa/dspace-kg/tree/master/php-scopus">Scopus</a>
 </p>
 <p>
-<a href="https://github.com/kovmisa/dspace-kg/tree/master/php-scopus">Scopus</a>
+<a href="https://github.com/kovmisa/dspace-kg/tree/master/php-dspace-api">Dspace-rest-api</a>
 </p>
