@@ -13,8 +13,10 @@ sa
 </p>
 <code>String mdf = md.contains(":") ? StringUtils.substringAfter(md, ":") : md;</code>
 <hr>
-
+<p>
+Line 119-152 dodata polja za submitovanje issn, doi, scopus:
+</p>
 <a href="https://github.com/kovmisa/dspace-kg/blob/master/input-forms.xml">/dspace/config/input-forms.xml</a>
 
-
+<hr>
 
