@@ -11,7 +11,7 @@ U redu <a href="https://github.com/kovmisa/dspace-kg/blob/master/php-dspace-api/
 postBitstream - postavlja PDF
 </p>
 <p>
-deleteBitstream - brise metapodatke
+deleteBitstream - brise PDF
 </p>
 <p>
 postMetadata - dodaje submission
