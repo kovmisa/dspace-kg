@@ -19,5 +19,6 @@
 <hr>
 <p>
   <b>napravi_za_submission_group.php</b> pravi html kojim se zameni na stranici  https://scidar.kg.ac.rs/tools/group-edit <select> <b>EPerson Members</b> sa svim clanovma grupe, na taj nacin se bulk dodaju novi clanovi.
-</p>  
+</p> 
+  
 <hr>
