@@ -11,6 +11,7 @@
 </p>  
 <code>/dspace/bin/dspace read izvrsi-dspace > izvrsi-dspace.out</code>
  <p>
+  <br>
   i pravi korisnike.
 </p>  
 
