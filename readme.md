@@ -16,7 +16,7 @@ sa
 <p>
 Line 119-152 dodata polja za submitovanje issn, doi, scopus:
 </p>
-<a href="https://github.com/kovmisa/dspace-kg/blob/master/input-forms.xml">/dspace/config/input-forms.xml</a>
+<a href="https://github.com/kovmisa/dspace-kg/blob/master/input-forms.xml#L119">/dspace/config/input-forms.xml</a>
 
 <hr>
 
