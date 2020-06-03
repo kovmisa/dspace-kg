@@ -24,3 +24,6 @@ Line 119-152 dodata polja za submitovanje issn, doi, scopus:
 <p>
 <a href="https://github.com/kovmisa/dspace-kg/tree/master/php-dspace-api">Dspace-rest-api</a>
 </p>
+<p>
+<a href="https://github.com/kovmisa/dspace-kg/tree/master/php-dspace-api">Skupljanje podataka iz excell-a</a>
+</p>
