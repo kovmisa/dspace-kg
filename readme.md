@@ -19,6 +19,8 @@ Line 119-152 dodata polja za submitovanje issn, doi, scopus:
 <hr>
 <h4>PHP skripte</h4>
 <p>
-Scopus scrape:
+<a href="https://github.com/kovmisa/dspace-kg/tree/master/php-scopus">Scopus</a>
 </p>
-
+<p>
+<a href="https://github.com/kovmisa/dspace-kg/tree/master/php-scopus">Scopus</a>
+</p>
