@@ -140,7 +140,7 @@ $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, "https://scidar.kg.ac.rs/rest/login"); 
 	curl_setopt($ch, CURLOPT_POST, 1);
     //curl_setopt($ch, CURLOPT_USERPWD, urlencode('imi.servis@gmail.com').':'.urlencode('!dspaceclean'));
-	curl_setopt($ch, CURLOPT_POSTFIELDS,"email=".urlencode('imi.servis@gmail.com')."&password=".urlencode('!dspaceclean'));
+	curl_setopt($ch, CURLOPT_POSTFIELDS,"email=".urlencode('mail_admin_korisnika')."&password=".urlencode('lozinka'));
    // curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE); 
     //curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 2); 
     curl_setopt($ch, CURLOPT_HEADER, 1); 
